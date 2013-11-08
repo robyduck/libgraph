@@ -1,7 +1,7 @@
 libgraph
 ===========
 
-:Author: Robert Mayr <robyduck@fedoraproject.org>
+Author: Robert Mayr <robyduck@fedoraproject.org>
 
 Wordpress theme for Libre Graphics Meeting 2014
 
@@ -9,11 +9,13 @@ This README is a short guide to install the Wordpress Libre Graphics Meeting
 site locally for testing
 Theme: expound rewritten by Robert Mayr
 
-===========
+================================================================================
+
 IMPORTANT: You need a running webserver (LAMP) to deploy the site locally,
 please refer to the official documentation to install apache, mysql, php and
 phpmyadmin.
-===========
+
+================================================================================
 
 INSTALLATION
 
